@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LorikV
 - 👀 I’m interested in Learning more about programming
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm Also learning Web Developmen
 - 📫 How to reach me vuqajlorik@gmail.com
 
 <!---
